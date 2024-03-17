@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "7mgHYfR6Z+REm85LCJxAZOmNAvvCFyDJfIDeQuin368YwXGAEAv2B8ezPkWZhhoLMePENlaZy4FPSKTEkFHe/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\.net\\בנק מעודכן מעודכן\\Updated-bank-project\\Solid.Core\\Solid.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\USER\\Desktop\\.net\\בנק מעודכן מעודכן\\Updated-bank-project\\Solid.Core\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}
