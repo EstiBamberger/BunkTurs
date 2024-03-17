@@ -19,3 +19,6 @@ Welcome to the Customer Management System project! This server-side system is de
 ## How to Use
 
 1. Clone the repository from GitHub:
+git clone https://github.com/EstiBamberger/BunkTurs.git
+2. Set up your database connection string in the configuration file.
+3. Build and run the application.
